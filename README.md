@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="demo/20241229_040437_436.jpg" align="center" width="45%">
+    <img src="demo/20241229_040437_436.jpg" align="center" width="50%">
 </p>
-<p align="center"><h1 align="center"><code>GenImg - Your Gateway to AI-Powered Digital Creativity</code></h1></p>
+<p align="center"><h1 align="center">GenImg - Your Gateway to AI-Powered Digital Creativity</h1></p>
 <p align="center">
-    <em><code>Transforming your imagination into stunning visuals with the power of AI.</code></em>
+    <em>Transforming your imagination into stunning visuals with the power of AI.</em>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=default&logo=Next.js&logoColor=white" alt="Next.js">
