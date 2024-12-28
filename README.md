@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/AI_Generation-Powered.svg?style=default&logo=Artificial-Intelligence&logoColor=white" alt="AI">
 </p>
 
-<p align="center"><strong>🚀 <a href="https://Next.JYJ.cx/GenImg">Experience the Magic: Try GenImg Now at https://Next.JYJ.cx/GenImg</a> ✨</strong></p>
+<p align="center"><strong>🔥 <a href="https://Next.JYJ.cx/GenImg">Experience the Magic: Try GenImg Now at https://Next.JYJ.cx/GenImg</a> ✨</strong></p>
 
 ---
 
